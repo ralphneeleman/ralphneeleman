@@ -6,7 +6,7 @@ I've been developing software since I was 14, starting with experimenting and cr
 - **Tech Stack:** React SSR, Node.js, GraphQL, Express, Swift, TypeScript, MongoDB.
 - **Communities:** Active in Frontend, iOS/iPadOS/macOS development communities.
 - **Projects:** Designed and developed:
-  - [neelemam.com](https://neeleman.com)
+  - [neeleman.com](https://neeleman.com)
   - [budgetketel.nl](https://budgetketel.nl)
   - [jcschuurmangewasverzorging.nl](https://jcschuurmangewasverzorging.nl)
   - & more 🤫
