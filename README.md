@@ -1,16 +1,12 @@
-## Hi there 👋
+### Hello there 👋
 
-<!--
-**ralphneeleman/ralphneeleman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### A Full-Stack Developer by day and night.
+I've been developing software since I was 14, starting with experimenting and creating iOS Apps with Swift 1.0 (yes, I did that to myself—ifykyk). After finishing school and working at a software company for 3 years, I now design and develop full-stack SSR web apps and mobile apps under my own business, [Appkwekerij](https://appkwekerij.nl).
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Tech Stack:** React SSR, Node.js, GraphQL, Express, Swift, TypeScript, MongoDB.
+- **Communities:** Active in Frontend, iOS/iPadOS/macOS development communities.
+- **Projects:** Designed and developed:
+  - [neelemam.com](https://neeleman.com)
+  - [budgetketel.nl](https://budgetketel.nl)
+  - [jcschuurmangewasverzorging.nl](https://jcschuurmangewasverzorging.nl)
+  - & more 🤫
