@@ -7,6 +7,6 @@ I've been developing software since I was 14, starting with experimenting and cr
 - **Communities:** Active in Frontend, iOS/iPadOS/macOS development communities.
 - **Projects:** Designed and developed:
   - [neeleman.com](https://neeleman.com)
+  - [neeleman.com](https://neeleman.com)
   - [budgetketel.nl](https://budgetketel.nl)
-  - [jcschuurmangewasverzorging.nl](https://jcschuurmangewasverzorging.nl)
-  - & more 🤫
+  - & more
